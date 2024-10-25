@@ -1,0 +1,52 @@
+EXECUTIVE SUMMARY
+================
+
+System: arch 6.10.5-arch1-1
+Hostname: archlinux
+
+Memory Usage: 51.90%
+Swap Usage: 0.00%
+
+Total Processes: 317
+Network Connections: 291
+
+File System Usage:
+- /proc: 0.00% used
+- /sys: 0.00% used
+- /dev: 0.00% used
+- /run: 0.03% used
+- /sys/firmware/efi/efivars: 30.22% used
+- /: 4.72% used
+- /sys/kernel/security: 0.00% used
+- /dev/shm: 0.64% used
+- /dev/pts: 0.00% used
+- /sys/fs/cgroup: 0.00% used
+- /sys/fs/pstore: 0.00% used
+- /sys/fs/bpf: 0.00% used
+- /proc/sys/fs/binfmt_misc: 0.00% used
+- /run/credentials/systemd-journald.service: 0.00% used
+- /run/credentials/systemd-udev-load-credentials.service: 0.00% used
+- /run/credentials/systemd-tmpfiles-setup-dev-early.service: 0.00% used
+- /sys/kernel/debug: 0.00% used
+- /sys/kernel/config: 0.00% used
+- /sys/fs/fuse/connections: 0.00% used
+- /dev/mqueue: 0.00% used
+- /sys/kernel/tracing: 0.00% used
+- /dev/hugepages: 0.00% used
+- /run/credentials/systemd-tmpfiles-setup-dev.service: 0.00% used
+- /run/credentials/systemd-sysctl.service: 0.00% used
+- /tmp: 0.08% used
+- /run/credentials/systemd-vconsole-setup.service: 0.00% used
+- /.snapshots: 4.72% used
+- /var/log: 4.72% used
+- /var/cache/pacman/pkg: 4.72% used
+- /home: 4.72% used
+- /boot: 32.48% used
+- /run/credentials/systemd-tmpfiles-setup.service: 0.00% used
+- /run/user/1000: 0.01% used
+- /run/user/1000/gvfs: 0.00% used
+- /run/user/1000/doc: 0.00% used
+- /proc/sys/fs/binfmt_misc: 0.00% used
+
+Recent Files (24h): 2
+Installed Applications: 0
